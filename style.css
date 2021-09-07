@@ -10,7 +10,29 @@
 html{
     scroll-behavior: smooth;
 }
+/* .homesocial{
+    display: grid;
+    grid-template-columns: max-content;
+    row-gap: 1rem;
+    position: fixed;
+    padding: 5rem 0;
+    justify-items: center;
+}
 
+.homesocial-icon{
+    font-size: 1.2rem;
+    color: var(--first-color-second);
+}
+
+.home__social-icon:hover{
+    color: var(--first-color-alt);
+}
+
+.long-line{
+    height: 10rem;
+    width: 0.125rem;
+    background: var(--first-color-second);
+} */
 /* custom scroll bar */
 ::-webkit-scrollbar {
     width: 10px;
